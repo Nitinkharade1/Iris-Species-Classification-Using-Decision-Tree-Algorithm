@@ -22,20 +22,5 @@ The project is organized as follows:
 - `src/`: Python source code for the Decision Tree model.
 - `requirements.txt`: Lists the Python libraries and dependencies required for running the project.
 
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. Clone this repository to your local machine using Git.
-
-   ```bash
-   git clone https://github.com/your-username/iris-species-classification.git
-
-## 1.Navigate to the project directory.
-cd iris-species-classification
-## 2.Install the required Python packages by running:
-
-3.Open the Jupyter notebooks in the notebooks/ directory to explore the dataset and the model development process.
-4.Run the Decision Tree model from the src/ directory to classify Iris species.
 
 
